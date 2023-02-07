@@ -1,0 +1,20 @@
+{
+  "name": "18-forkify",
+  "version": "1.0.0",
+  "description": "Restaurant app",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Jeffrey Meijer",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  },
+  "dependencies": {
+    "core-js": "^3.25.5",
+    "fractional": "^1.0.0",
+    "regenerator-runtime": "^0.13.9"
+  }
+}
